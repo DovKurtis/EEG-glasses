@@ -2,9 +2,10 @@
 
 ![EEG Glasses](EEG_Glasses_image.png)
 ## PCB
+<img src="whole_board.png" width="700" />
 <img src="left_arm.png" width="320" />
 <img src="right_arm.png" width="320" />
-<img src="whole_board.png" width="700" />
+
 
 
 
