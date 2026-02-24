@@ -1,3 +1,5 @@
+Long-Goal: Establish continuous, real-world, multimodal data (visual, auditory, physiological, neural) as the standard for meaningful insights in emotional and personality disorder BCI applications. The system emphasizes electrode stability and signal protection. It is in active prototyping and will not be intended for wellness or consumer use.
+
 # EEG-glasses
 
 ![EEG Glasses](EEG_Glasses_image.png)
